@@ -10,3 +10,5 @@ produce successful games and creatively solve real-world problems.
 ## CSU East Bay Game Jam 
 ## CSU East Bay Game Classes 
 ## CSU East Bay Game making resources
+
+last update december 2018
